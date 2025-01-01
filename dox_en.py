@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+ -*- coding: utf-8 -*-
 
 # Doxxer-Toolkit by Euronymou5
 # https://twitter.com/Euronymou51
